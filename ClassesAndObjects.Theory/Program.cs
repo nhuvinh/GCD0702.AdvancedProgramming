@@ -100,6 +100,8 @@ namespace ClassesAndObjects.Theory
 
 			Console.ReadLine();
 
+
+
 		}
 	}
 }
