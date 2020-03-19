@@ -20,6 +20,13 @@ namespace Inheritance.Theory
 			myCar.Print();
 
 			Console.ReadLine();
+
+			Bus myBus = new Bus("Thaco", "SuperSize", 500000
+				, 500, 40, "ABCStar", 0);
+			myBus.Print();
+			myBus.Run();
+
+			Console.ReadLine();
 		}
 	}
 }
