@@ -50,5 +50,15 @@ namespace Inheritance.Theory
 		{
 			Speed = speed;
 		}
+
+		public void IncreaseSpeedBy(int speed)
+		{
+			Speed += speed;
+		}
+
+		public void DecreaseSpeedBy(int speed)
+		{
+			Speed -= speed;
+		}
 	}
 }

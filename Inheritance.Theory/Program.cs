@@ -27,6 +27,13 @@ namespace Inheritance.Theory
 			myBus.Run();
 
 			Console.ReadLine();
+
+			Vehicle myTruck = new Truck("VinFast", "V-model", 1000000, 100, 500, 10, 20, "Thaco");
+			myTruck.Run();
+			myTruck.ApplyBrakes();
+			myTruck.Print();
+
+			Console.ReadLine();
 		}
 	}
 }
