@@ -30,6 +30,32 @@ namespace Inheritance.Lab
 
 			Console.ReadLine();
 
+			RandomList rndList = new RandomList();
+			rndList.Add("1");
+			rndList.Add("2");
+			rndList.Add("3");
+			rndList.Add("4");
+			rndList.Add("5");
+			rndList.Add("6");
+
+			foreach (var item in rndList)
+			{
+				Console.WriteLine(item);
+			}
+
+			Console.ReadLine();
+
+			Console.WriteLine(rndList.RandomString());
+
+			Console.ReadLine();
+
+			foreach (var item in rndList)
+			{
+				Console.WriteLine(item);
+			}
+
+			Console.ReadLine();
+
 		}
 	}
 }
