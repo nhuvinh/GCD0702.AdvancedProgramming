@@ -56,6 +56,37 @@ namespace Inheritance.Lab
 
 			Console.ReadLine();
 
+			StackOfStrings stackOfStrings = new StackOfStrings();
+			stackOfStrings.Push("1");
+			stackOfStrings.Push("2");
+			stackOfStrings.Push("3");
+			stackOfStrings.Push("4");
+			stackOfStrings.Push("5");
+			stackOfStrings.Push("6");
+			stackOfStrings.Push("7");
+
+			stackOfStrings.Print();
+
+			Console.ReadLine();
+
+			Console.WriteLine("=== Peek ===");
+			Console.WriteLine(stackOfStrings.Peek());
+			stackOfStrings.Print();
+
+			Console.ReadLine();
+			Console.WriteLine("=== Pop ===");
+			Console.WriteLine(stackOfStrings.Pop());
+			Console.ReadLine();
+
+			stackOfStrings.Print();
+			Console.ReadLine();
+
+
+
+
+
+
+
 		}
 	}
 }
