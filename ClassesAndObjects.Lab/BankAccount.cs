@@ -14,6 +14,17 @@ namespace ClassesAndObjects.Lab
 		public int Id { get; set; }
 		public decimal Balance { get; set; }
 
+		public BankAccount()
+		{
+
+		}
+
+		public BankAccount(int id, decimal balance)
+		{
+			Id = id;
+			Balance = balance;
+		}
+
 		public void Deposit(decimal amount)
 		{
 			Balance += amount;
