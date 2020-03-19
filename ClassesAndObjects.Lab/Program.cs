@@ -45,6 +45,42 @@ namespace ClassesAndObjects.Lab
 
 			Console.ReadLine();
 
+			Console.WriteLine("=== Bank ===");
+
+			Bank bank = new Bank();
+			bank.Create(1);
+			bank.Create(2);
+			bank.Create(3);
+
+			bank.Print(1);
+			bank.Print(2);
+			bank.Print(3);
+
+			Console.ReadLine();
+			bank.Deposit(1, 15);
+			bank.Deposit(2, 35);
+			bank.Deposit(3, 55);
+
+			bank.Print(1);
+			bank.Print(2);
+			bank.Print(3);
+
+			Console.ReadLine();
+
+			bank.Withdraw(1, 10);
+			bank.Withdraw(2, 5);
+			bank.Withdraw(3, 25);
+
+			bank.Print(1);
+			bank.Print(2);
+			bank.Print(3);
+
+			Console.ReadLine();
+
+			var command = Console.ReadLine();
+
+
+
 
 		}
 	}
