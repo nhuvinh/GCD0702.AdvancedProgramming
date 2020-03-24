@@ -32,6 +32,21 @@ namespace Polymorphism.Lab
 
 			Console.ReadLine();
 
+			Rectangle rectangle = new Rectangle(10.9, 20.3);
+			Console.WriteLine(rectangle.CalculatePerimter());
+			Console.WriteLine(rectangle.CalculateArea());
+			Console.WriteLine(rectangle.Draw());
+
+			Console.ReadLine();
+
+			Circle circle = new Circle(3.54);
+			Console.WriteLine(circle.CalculatePerimter());
+			Console.WriteLine(circle.CalculateArea());
+			Console.WriteLine(circle.Draw());
+
+			Console.ReadLine();
+
+
 
 		}
 	}
