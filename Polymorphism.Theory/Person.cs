@@ -8,7 +8,7 @@ namespace Polymorphism.Theory
 {
 	public class Person
 	{
-		public void Run()
+		public virtual void Run()
 		{
 			Console.WriteLine("This person is running 100 meters");
 		}

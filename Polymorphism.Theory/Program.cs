@@ -21,6 +21,15 @@ namespace Polymorphism.Theory
 			Console.WriteLine(myPerson.Run(car));
 			Console.ReadLine();
 
+			UsainBolt usainBolt = new UsainBolt();
+
+			myPerson.Run();
+			Console.ReadLine();
+
+			usainBolt.Run();
+
+			Console.ReadLine();
+
 		}
 	}
 }
