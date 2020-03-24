@@ -16,6 +16,23 @@ namespace Polymorphism.Lab
 			Console.WriteLine(mo.Add(2.2m, 3.3m, 4.4m));
 
 			Console.ReadLine();
+
+			Animal animal = new Animal("testAnimal", "testFood");
+			Console.WriteLine(animal.ExplainSelf());
+
+			Console.ReadLine();
+
+			Animal dog = new Dog("Gosho", "Meat");
+			Console.WriteLine(dog.ExplainSelf());
+
+			Console.ReadLine();
+
+			Animal cat = new Cat("Pesho", "Whiskas");
+			Console.WriteLine(cat.ExplainSelf());
+
+			Console.ReadLine();
+
+
 		}
 	}
 }
