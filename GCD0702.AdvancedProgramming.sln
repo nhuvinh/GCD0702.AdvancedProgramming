@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism.Lab", "Polymor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction.Theory", "Abstraction.Theory\Abstraction.Theory.csproj", "{17A10758-AA47-41CF-B0E2-A6860C5D7581}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation.Theory", "Encapsulation.Theory\Encapsulation.Theory.csproj", "{86C54664-8521-465E-8643-F1784E87C811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{17A10758-AA47-41CF-B0E2-A6860C5D7581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A10758-AA47-41CF-B0E2-A6860C5D7581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A10758-AA47-41CF-B0E2-A6860C5D7581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C54664-8521-465E-8643-F1784E87C811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C54664-8521-465E-8643-F1784E87C811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C54664-8521-465E-8643-F1784E87C811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C54664-8521-465E-8643-F1784E87C811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
