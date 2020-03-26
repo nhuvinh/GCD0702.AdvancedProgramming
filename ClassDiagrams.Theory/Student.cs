@@ -10,7 +10,19 @@ namespace ClassDiagrams.Theory
 	{
 		private string name;
 		private int id;
-		static private int totalStudents;
+		static private int totalStudents = 0;
+
+		public Student(string n, int i)
+		{
+			name = n;
+			id = i;
+			totalStudents += 1;
+		}
+
+		public static int getTotalStudent()
+		{
+			return totalStudents;
+		}
 
 		protected int getId()
 		{
