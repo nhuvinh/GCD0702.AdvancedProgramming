@@ -22,11 +22,23 @@ namespace Encapsulation.Lab
 
 				persons.Add(person);
 			}
-			var bonus = decimal.Parse(Console.ReadLine());
-			persons.ForEach(p => p.IncreaseSalary(bonus));
+			//var bonus = decimal.Parse(Console.ReadLine());
+			//persons.ForEach(p => p.IncreaseSalary(bonus));
 			persons.ForEach(p => Console.WriteLine(p.ToString()));
 
 			Console.ReadLine();
+
+			Team team = new Team("GCD0702");
+
+			foreach (var p in persons)
+			{
+				team.AddPlayer(p);
+			}
+
+			team.PrintSize();
+
+			Console.ReadLine();
+
 		}
 	}
 }
