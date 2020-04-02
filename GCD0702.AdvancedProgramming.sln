@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation.Lab", "Encaps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction.Lab", "Abstraction.Lab\Abstraction.Lab.csproj", "{4B743C55-1AAA-4D13-B7C7-897F5EAF8D5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagement", "HotelManagement\HotelManagement.csproj", "{CC3B7729-356E-4284-A838-8FE5F6C6D109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4B743C55-1AAA-4D13-B7C7-897F5EAF8D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B743C55-1AAA-4D13-B7C7-897F5EAF8D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B743C55-1AAA-4D13-B7C7-897F5EAF8D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3B7729-356E-4284-A838-8FE5F6C6D109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3B7729-356E-4284-A838-8FE5F6C6D109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3B7729-356E-4284-A838-8FE5F6C6D109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3B7729-356E-4284-A838-8FE5F6C6D109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

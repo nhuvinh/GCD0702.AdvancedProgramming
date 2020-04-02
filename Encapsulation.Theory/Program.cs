@@ -19,11 +19,11 @@ namespace Encapsulation.Theory
 
 			// Because "Species" is Protected
 			// So that it can't be accessed from outside the class
-			animal.Species = "ZZZ";
+			// animal.Species = "ZZZ";
 
 			// Because "_id" is Private
 			// So that it can't be accessed from outside the class
-			animal._id = 123;
+			// animal._id = 123;
 
 		}
 	}
