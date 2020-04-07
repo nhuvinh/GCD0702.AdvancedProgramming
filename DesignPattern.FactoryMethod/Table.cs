@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.FactoryMethod
 {
-	class Table
+	class Table : IProduct
 	{
 	}
 }

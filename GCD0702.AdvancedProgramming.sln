@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightManagement", "FlightM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Singleton", "DesignPattern.Singleton\DesignPattern.Singleton.csproj", "{30D10BF3-659F-467B-9FC1-737A88D0E97E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.FactoryMethod", "DesignPattern.FactoryMethod\DesignPattern.FactoryMethod.csproj", "{5814AF04-CBCC-4DA2-8F9B-5A92166F58F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Facade", "DesignPattern.Facade\DesignPattern.Facade.csproj", "{739783D6-D008-468B-9A70-375700EB14BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5814AF04-CBCC-4DA2-8F9B-5A92166F58F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5814AF04-CBCC-4DA2-8F9B-5A92166F58F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5814AF04-CBCC-4DA2-8F9B-5A92166F58F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5814AF04-CBCC-4DA2-8F9B-5A92166F58F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739783D6-D008-468B-9A70-375700EB14BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739783D6-D008-468B-9A70-375700EB14BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739783D6-D008-468B-9A70-375700EB14BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739783D6-D008-468B-9A70-375700EB14BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.FactoryMethod
 {
-	class Chair
+	class Chair : IProduct
 	{
 	}
 }
