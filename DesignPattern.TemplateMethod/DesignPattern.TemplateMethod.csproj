@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09DC1A91-D110-422B-AD59-198ED448A9A5}</ProjectGuid>
+    <ProjectGuid>{6928766B-7541-4C39-A6CB-1B96E11AEB60}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPattern.Adapter</RootNamespace>
-    <AssemblyName>DesignPattern.Adapter</AssemblyName>
+    <RootNamespace>DesignPattern.TemplateMethod</RootNamespace>
+    <AssemblyName>DesignPattern.TemplateMethod</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AfricanLion.cs" />
-    <Compile Include="AsianLion.cs" />
-    <Compile Include="Hunter.cs" />
-    <Compile Include="ILion.cs" />
+    <Compile Include="AndroidBuilder.cs" />
+    <Compile Include="Builder.cs" />
+    <Compile Include="IOSBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Wolf.cs" />
-    <Compile Include="WolfAdapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

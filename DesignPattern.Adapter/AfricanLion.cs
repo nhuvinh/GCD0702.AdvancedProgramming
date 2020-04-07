@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Adapter
 {
-	class AfricanLion
+	class AfricanLion : ILion
 	{
 	}
 }

@@ -12,5 +12,7 @@ namespace DesignPattern.Adapter
 		{
 
 		}
+
+
 	}
 }
