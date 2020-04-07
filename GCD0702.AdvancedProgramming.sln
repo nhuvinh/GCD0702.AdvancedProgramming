@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManagement", "HotelMan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightManagement", "FlightManagement\FlightManagement.csproj", "{75208F56-7D75-4AB0-8F1E-9368124C2145}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Singleton", "DesignPattern.Singleton\DesignPattern.Singleton.csproj", "{30D10BF3-659F-467B-9FC1-737A88D0E97E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{75208F56-7D75-4AB0-8F1E-9368124C2145}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75208F56-7D75-4AB0-8F1E-9368124C2145}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75208F56-7D75-4AB0-8F1E-9368124C2145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D10BF3-659F-467B-9FC1-737A88D0E97E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
