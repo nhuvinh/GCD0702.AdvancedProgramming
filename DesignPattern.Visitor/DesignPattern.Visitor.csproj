@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E775EA46-1C52-4681-95FB-80FAC08D25C6}</ProjectGuid>
+    <ProjectGuid>{2DFF9A83-7FA1-45B0-A17F-4DC4ADDB7124}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPattern.Strategy</RootNamespace>
-    <AssemblyName>DesignPattern.Strategy</AssemblyName>
+    <RootNamespace>DesignPattern.Visitor</RootNamespace>
+    <AssemblyName>DesignPattern.Visitor</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BubbleSortStrategy.cs" />
+    <Compile Include="Cat.cs" />
+    <Compile Include="Dog.cs" />
+    <Compile Include="Eat.cs" />
+    <Compile Include="IAnimal.cs" />
+    <Compile Include="IAnimalOperation.cs" />
+    <Compile Include="Monkey.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuickSortStrategy.cs" />
-    <Compile Include="SortedList.cs" />
-    <Compile Include="SortedStrategy.cs" />
+    <Compile Include="Speak.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
