@@ -4,3 +4,4 @@ C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Lab\bi
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Lab\obj\Debug\ClassesAndObjects.Lab.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Lab\obj\Debug\ClassesAndObjects.Lab.exe
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Lab\obj\Debug\ClassesAndObjects.Lab.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Lab\obj\Debug\ClassesAndObjects.Lab.csproj.CoreCompileInputs.cache

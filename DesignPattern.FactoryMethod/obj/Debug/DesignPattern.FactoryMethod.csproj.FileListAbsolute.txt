@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.FactoryMethod\bin\Debug\DesignPattern.FactoryMethod.exe.config
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.FactoryMethod\bin\Debug\DesignPattern.FactoryMethod.exe
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.FactoryMethod\bin\Debug\DesignPattern.FactoryMethod.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.FactoryMethod\obj\Debug\DesignPattern.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.FactoryMethod\obj\Debug\DesignPattern.FactoryMethod.exe
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.FactoryMethod\obj\Debug\DesignPattern.FactoryMethod.pdb

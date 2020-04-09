@@ -1,0 +1,2 @@
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Encapsulation.Theory\obj\Debug\Encapsulation.Theory.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Encapsulation.Theory\obj\Debug\Encapsulation.Theory.csproj.CoreCompileInputs.cache

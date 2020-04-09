@@ -1,0 +1,6 @@
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.Adapter\bin\Debug\DesignPattern.Adapter.exe.config
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.Adapter\bin\Debug\DesignPattern.Adapter.exe
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.Adapter\bin\Debug\DesignPattern.Adapter.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.exe
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\DesignPattern.Adapter\obj\Debug\DesignPattern.Adapter.pdb

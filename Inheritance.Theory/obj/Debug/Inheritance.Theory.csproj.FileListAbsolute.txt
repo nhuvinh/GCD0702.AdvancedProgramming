@@ -4,3 +4,4 @@ C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Inheritance.Theory\bin\D
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Inheritance.Theory\obj\Debug\Inheritance.Theory.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Inheritance.Theory\obj\Debug\Inheritance.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Inheritance.Theory\obj\Debug\Inheritance.Theory.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Inheritance.Theory\obj\Debug\Inheritance.Theory.csproj.CoreCompileInputs.cache

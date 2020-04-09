@@ -1,6 +1,6 @@
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\bin\Debug\Abstraction.Lab.exe.config
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\bin\Debug\Abstraction.Lab.exe
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\bin\Debug\Abstraction.Lab.pdb
-C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.exe
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Abstraction.Lab\obj\Debug\Abstraction.Lab.csproj.CoreCompileInputs.cache

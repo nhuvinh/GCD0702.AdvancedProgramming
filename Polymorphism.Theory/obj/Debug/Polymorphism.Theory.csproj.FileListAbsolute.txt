@@ -1,6 +1,6 @@
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\bin\Debug\Polymorphism.Theory.exe.config
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\bin\Debug\Polymorphism.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\bin\Debug\Polymorphism.Theory.pdb
-C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\obj\Debug\Polymorphism.Theory.csprojAssemblyReference.cache
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\obj\Debug\Polymorphism.Theory.exe
 C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\obj\Debug\Polymorphism.Theory.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\Polymorphism.Theory\obj\Debug\Polymorphism.Theory.csproj.CoreCompileInputs.cache

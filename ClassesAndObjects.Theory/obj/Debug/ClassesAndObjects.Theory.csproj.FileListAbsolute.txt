@@ -1,0 +1,7 @@
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\bin\Debug\ClassesAndObjects.Theory.exe.config
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\bin\Debug\ClassesAndObjects.Theory.exe
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\bin\Debug\ClassesAndObjects.Theory.pdb
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\obj\Debug\ClassesAndObjects.Theory.csprojAssemblyReference.cache
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\obj\Debug\ClassesAndObjects.Theory.csproj.CoreCompileInputs.cache
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\obj\Debug\ClassesAndObjects.Theory.exe
+C:\Users\nhuvi\source\repos\GCD0702.AdvancedProgramming\ClassesAndObjects.Theory\obj\Debug\ClassesAndObjects.Theory.pdb
