@@ -8,5 +8,9 @@ namespace DesignPattern.FactoryMethod
 {
 	class Chair : IProduct
 	{
+		public void Run()
+		{
+			throw new NotImplementedException();
+		}
 	}
 }

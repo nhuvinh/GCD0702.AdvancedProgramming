@@ -8,5 +8,6 @@ namespace DesignPattern.FactoryMethod
 {
 	interface IProduct
 	{
+		void Run();
 	}
 }

@@ -8,5 +8,9 @@ namespace DesignPattern.FactoryMethod
 {
 	class Car : IProduct
 	{
+		public void Run()
+		{
+			Console.WriteLine("Car is running ...");
+		}
 	}
 }

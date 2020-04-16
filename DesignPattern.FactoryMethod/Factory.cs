@@ -8,22 +8,22 @@ namespace DesignPattern.FactoryMethod
 {
 	class Factory
 	{
-		public IProduct CreateCar()
+		public static IProduct CreateCar()
 		{
 			return new Car();
 		}
 
-		public IProduct CreateTable()
+		public static IProduct CreateTable()
 		{
 			return new Table();
 		}
 
-		public IProduct CreateChair()
+		public static IProduct CreateChair()
 		{
 			return new Chair();
 		}
 
-		public IProduct CreateBicycle()
+		public static IProduct CreateBicycle()
 		{
 			return new Bicycle();
 		}

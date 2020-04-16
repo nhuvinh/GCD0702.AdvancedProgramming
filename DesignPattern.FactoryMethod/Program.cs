@@ -10,13 +10,15 @@ namespace DesignPattern.FactoryMethod
 	{
 		static void Main(string[] args)
 		{
-			Factory factory = new Factory();
 
-			IProduct car = factory.CreateCar();
+			IProduct car = Factory.CreateCar();
+			car.Run();
 
-			IProduct table = factory.CreateTable();
+			IProduct table = Factory.CreateTable();
 
-			IProduct chair = factory.CreateChair();
+			IProduct chair = Factory.CreateChair();
+
+			Console.ReadLine();
 		}
 	}
 }
